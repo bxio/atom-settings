@@ -1,0 +1,17 @@
+"*":
+  "exception-reporting":
+    userId: "feadcee8-9dc0-816c-4fce-c21ff946757b"
+  welcome:
+    showOnStartup: false
+  core:
+    disabledPackages: [
+      "metrics"
+    ]
+    themes: [
+      "isotope-ui"
+      "oceanic-reef-syntax"
+    ]
+    audioBeep: false
+    excludeVcsIgnoredPaths: false
+  editor:
+    invisibles: {}
